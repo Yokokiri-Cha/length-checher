@@ -26,7 +26,7 @@
     <ProductName>文字数カウンター</ProductName>
     <PublisherName>横茶横葉</PublisherName>
     <SuiteName>Strings Length</SuiteName>
-    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
