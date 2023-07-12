@@ -1,0 +1,16 @@
+C:\Users\askke\source\repos\Strings Length\Strings Length\bin\Debug\Strings Length.exe.config
+C:\Users\askke\source\repos\Strings Length\Strings Length\bin\Debug\Strings Length.exe
+C:\Users\askke\source\repos\Strings Length\Strings Length\bin\Debug\Strings Length.pdb
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.csproj.AssemblyReference.cache
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.csproj.SuggestedBindingRedirects.cache
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings_Length.Form1.resources
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings_Length.Properties.Resources.resources
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.csproj.GenerateResource.cache
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.csproj.CoreCompileInputs.cache
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.exe
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.pdb
+C:\Users\askke\source\repos\Strings Length\Strings Length\bin\Debug\Strings Length.exe.manifest
+C:\Users\askke\source\repos\Strings Length\Strings Length\bin\Debug\Strings Length.application
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.TrustInfo.xml
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.exe.manifest
+C:\Users\askke\source\repos\Strings Length\Strings Length\obj\Debug\Strings Length.application
